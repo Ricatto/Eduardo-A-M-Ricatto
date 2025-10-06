@@ -12,8 +12,8 @@ Sou um profissional com vasta experiência em gestão, projetos, melhoria contí
 
 ### 🚀 Minhas Principais Competências
 
-- **Melhoria Contínua & Processos:** Lean Six Sigma, Kaizen [cite: 83][cite_start], Mapeamento de Processos [cite: 32][cite_start], Gestão da Qualidade (ISO).
-- **Gestão de Riscos e Controles:** Gestão de Riscos Operacionais [cite: 40][cite_start], Planos de Continuidade de Negócios, Due Diligence, LGPD/GDPR.
+- **Melhoria Contínua & Processos:** Lean Six Sigma, Kaizen, Mapeamento de Processos, Gestão da Qualidade (ISO).
+- **Gestão de Riscos e Controles:** Gestão de Riscos Operacionais, Planos de Continuidade de Negócios, Due Diligence, LGPD/GDPR.
 - **Análise de Dados & BI:** Desenvolvimento de Indicadores (KRIs & KPIs), Análise de Performance, Dashboards em Power BI.
 - **Gestão de Projetos & Metodologias Ágeis:** Scrum, Kanban, Lean Change Management.
 
